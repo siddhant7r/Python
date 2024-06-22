@@ -1,0 +1,8 @@
+print(ord('0'))
+print(ord('a'))
+print(ord('A'))
+print(chr(24))
+print(chr(102))
+print(chr(65))
+print(float(5))
+print(complex(5))
