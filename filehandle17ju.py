@@ -1,0 +1,1 @@
+f=open("new1.txt",'x')
