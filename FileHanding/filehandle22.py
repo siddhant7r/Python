@@ -1,0 +1,16 @@
+
+# f=open("n22aj.txt","w")
+# print(f.writable())
+
+# f.write("This is Siddhant Raj,working at Cybrom . I am from Bhopal")
+f=open("n22aj.txt","rb")
+print(f.tell())
+print(f.read(6))
+print(f.tell())
+#print(f.read(5))
+print(f.seek(5,1))
+print(f.tell())
+print(f.read(10))
+print(f.tell())
+f.seek(-6,2)
+f.read()

@@ -8,7 +8,7 @@
 # print(i.read())
 
 
-f=open("n2.txt",'x')
+f=open("n1.txt",'x')
 
 print(f.readable())
 print(f.writable())

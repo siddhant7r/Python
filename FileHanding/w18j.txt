@@ -1,0 +1,4 @@
+This is Siddhant Raj,working at CybromThis is Siddhant Raj,working at Cybromwe are training on the python
+    s=10;
+    if(s%2==0):
+        print("even")
