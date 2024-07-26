@@ -1,7 +1,8 @@
 x=0
 y=1
+print(x,y)
 n=5
-sum=y
+sum=x
 while y<n:
     sum=sum+y
     y=y+1
