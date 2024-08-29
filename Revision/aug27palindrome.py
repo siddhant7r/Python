@@ -7,5 +7,6 @@ lis=['ababa','nitin','we','new','ww','a','aaaaa']
 lis1=[]
 
 for i in lis:
-    if lis[i]==lis[i][::-1]:
-        lis1.append(lis[i]) 
+    if i==i[::-1] and len(i)>2:
+        lis1.append(i) 
+print(lis1)        
