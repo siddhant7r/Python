@@ -10,5 +10,8 @@ for i in range(n):
        "mobile":mob}
     
     records[aadhaar]=d
+print(records)
+
+records[0]["address"]="Bhopal"
 
 print(records)
